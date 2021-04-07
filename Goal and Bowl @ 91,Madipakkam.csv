@@ -1,0 +1,7 @@
+,Date,Venue Name,Venue Area,Name,Cost,Advance,Discount,Billed Amount,App Coupon,TT Coins,TT Payment,Booking id,Start time,End time,Booked by,Created at,Booking status,Refund Status,Cancelled at,Mobile No,Transaction Id,Sport Type
+1366,2020Dec 31,Goal and Bowl @ 91,Madipakkam,Raaghul viswanath,700,70.0,0.0,700.0,0,0,70,TT106655,5:00 PM,6:00 PM,TurfTown,"Dec 31, 2020 8:16 AM",completed,-,"Mar 30, 2021 2:40 PM",9003435217,pay_GJZsY722U03Fxe,football
+172,2020Dec 05,Goal and Bowl @ 91,Madipakkam,Kishore,1000,100.0,0.0,1000.0,0,0,100,TT093949,9:00 PM,10:00 PM,TurfTown,"Dec 5, 2020 12:36 PM",completed,-,"Mar 30, 2021 2:40 PM",8680048098,pay_G9MQNafkC04Ke4,football
+392,2020Dec 09,Goal and Bowl @ 91,Madipakkam,Mathew George,1000,100.0,0.0,100.0,0,0,100,TT094899,9:00 PM,10:00 PM,TurfTown,"Dec 7, 2020 3:08 PM",cancelled,Refunded,"Mar 30, 2021 2:40 PM",9444106583,pay_GAC4VeyIWevcfW,football
+929,2020Dec 21,Goal and Bowl @ 91,Madipakkam,Vengat,1050,105.0,0.0,1050.0,0,0,105,TT100885,8:00 PM,9:30 PM,TurfTown,"Dec 20, 2020 2:17 AM",completed,-,"Mar 30, 2021 2:40 PM",9003079304,pay_GF7tBRungzb7hF,football
+2150,2021Jan 12,Goal and Bowl @ 91,Madipakkam,Mujahid,1050,100.0,0.0,100.0,50,0,100,TT114380,8:00 PM,9:30 PM,TurfTown,"Jan 12, 2021 9:53 AM",cancelled,Refunded,"Mar 30, 2021 2:40 PM",8428847491,pay_GOLz5f1O7qlFlK,football
+3724,2021Feb 07,Goal and Bowl @ 91,Madipakkam,anish,1350,5.0,0.0,5.0,0,1300,"1,305",TT129664,7:00 PM,8:30 PM,TurfTown,"Feb 7, 2021 1:07 PM",cancelled,-,"Mar 30, 2021 2:40 PM",9840157217,pay_GYh9c3JnJxpzG9,football

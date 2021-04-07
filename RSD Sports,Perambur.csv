@@ -1,0 +1,18 @@
+,Date,Venue Name,Venue Area,Name,Cost,Advance,Discount,Billed Amount,App Coupon,TT Coins,TT Payment,Booking id,Start time,End time,Booked by,Created at,Booking status,Refund Status,Cancelled at,Mobile No,Transaction Id,Sport Type
+3842,2021Feb 11,RSD Sports,Perambur,kaihavehearts,800,80.0,0.0,80.0,0,0,80,TT131454,11:00 PM,12:00 AM,TurfTown,"Feb 11, 2021 10:56 AM",cancelled,Refunded,"Mar 30, 2021 2:40 PM",9444106583,pay_GaF39rHNPXYjax,cricket
+6713,2021Mar 27,RSD Sports,Perambur,fayaz786,800,0.0,0.0,800.0,0,800,800,TT161493,9:00 PM,10:00 PM,TurfTown,"Mar 27, 2021 1:56 PM",booked,-,"Mar 30, 2021 2:40 PM",9962292429,free_slot,cricket
+4322,2021Feb 20,RSD Sports,Perambur,susindarraj,1600,800.0,800.0,800.0,0,0,800,TT135911,4:00 PM,6:00 PM,TurfTown,"Feb 19, 2021 5:39 PM",cancelled,Refunded,"Mar 30, 2021 2:40 PM",9500683208,pay_GdWC5GOdz8qNj2,cricket
+4477,2021Feb 22,RSD Sports,Perambur,amitkhivsara,1600,80.0,800.0,800.0,0,0,80,TT136168,6:30 AM,8:30 AM,TurfTown,"Feb 20, 2021 5:04 AM",booked,-,"Mar 30, 2021 2:40 PM",9360593605,pay_Gdhrwp3uERS9pa,cricket
+4904,2021Feb 28,RSD Sports,Perambur,shashank,1600,80.0,800.0,800.0,0,0,80,TT140145,7:00 AM,9:00 AM,TurfTown,"Feb 26, 2021 2:20 PM",booked,-,"Mar 30, 2021 2:40 PM",8072345591,pay_GgEXRhmeQdr2CA,cricket
+5464,2021Mar 11,RSD Sports,Perambur,karthi777,1600,0.0,800.0,800.0,0,800,800,TT150655,5:00 PM,7:00 PM,TurfTown,"Mar 10, 2021 2:29 PM",booked,-,"Mar 30, 2021 2:40 PM",8072495541,free_slot,cricket
+5521,2021Mar 12,RSD Sports,Perambur,karthi777,1600,0.0,800.0,800.0,0,800,800,TT150630,8:00 PM,10:00 PM,TurfTown,"Mar 10, 2021 2:00 PM",booked,-,"Mar 30, 2021 2:40 PM",8072495541,free_slot,cricket
+5889,2021Mar 16,RSD Sports,Perambur,shashank,1600,75.0,800.0,800.0,0,50,125,TT153112,2:30 PM,4:30 PM,TurfTown,"Mar 15, 2021 7:53 AM",booked,-,"Mar 30, 2021 2:40 PM",8072345591,pay_Gmr1ZPWLw0vspR,cricket
+5999,2021Mar 18,RSD Sports,Perambur,karthi777,1600,0.0,800.0,800.0,0,800,800,TT153379,7:30 PM,9:30 PM,TurfTown,"Mar 15, 2021 1:22 PM",booked,-,"Mar 30, 2021 2:40 PM",8072495541,free_slot,cricket
+6070,2021Mar 19,RSD Sports,Perambur,karl,1600,0.0,800.0,800.0,0,800,800,TT155073,6:30 PM,8:30 PM,TurfTown,"Mar 18, 2021 1:00 PM",booked,-,"Mar 30, 2021 2:40 PM",8754496495,free_slot,cricket
+6482,2021Mar 24,RSD Sports,Perambur,shashank,1600,80.0,800.0,80.0,0,0,80,TT158985,8:00 PM,10:00 PM,TurfTown,"Mar 23, 2021 3:54 PM",cancelled,Refunded,"Mar 30, 2021 2:40 PM",8072345591,pay_Gq9U51Yxh2rD2S,cricket
+6495,2021Mar 24,RSD Sports,Perambur,vikasraj,1600,80.0,800.0,800.0,0,0,80,TT159371,7:00 PM,9:00 PM,TurfTown,"Mar 24, 2021 10:33 AM",booked,-,"Mar 30, 2021 2:40 PM",8610457773,pay_GqSZgOtYTPehyH,cricket
+6541,2021Mar 25,RSD Sports,Perambur,karthi777,1600,0.0,800.0,0.0,0,800,800,TT158956,7:30 PM,9:30 PM,TurfTown,"Mar 23, 2021 3:08 PM",cancelled,-,"Mar 30, 2021 2:40 PM",8072495541,free_slot,cricket
+6555,2021Mar 25,RSD Sports,Perambur,karthi777,1600,0.0,800.0,800.0,0,800,800,TT159791,8:00 PM,10:00 PM,TurfTown,"Mar 25, 2021 7:21 AM",booked,-,"Mar 30, 2021 2:40 PM",8072495541,free_slot,cricket
+6714,2021Mar 27,RSD Sports,Perambur,karl,1600,0.0,100.0,1500.0,0,1500,"1,500",TT161110,6:00 PM,8:00 PM,TurfTown,"Mar 27, 2021 4:03 AM",booked,-,"Mar 30, 2021 2:40 PM",8754496495,free_slot,cricket
+6930,2021Mar 29,RSD Sports,Perambur,charan07,1600,80.0,800.0,800.0,0,0,80,TT160085,7:00 PM,9:00 PM,TurfTown,"Mar 25, 2021 12:39 PM",booked,-,"Mar 30, 2021 2:40 PM",9113614045,pay_GqtEPkfgcHXx64,cricket
+6957,2021Mar 30,RSD Sports,Perambur,karthi777,1600,0.0,800.0,800.0,0,800,800,TT163186,8:00 PM,10:00 PM,TurfTown,"Mar 29, 2021 5:16 PM",booked,-,"Mar 30, 2021 2:40 PM",8072495541,free_slot,cricket

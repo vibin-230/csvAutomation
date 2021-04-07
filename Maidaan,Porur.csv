@@ -1,0 +1,5 @@
+,Date,Venue Name,Venue Area,Name,Cost,Advance,Discount,Billed Amount,App Coupon,TT Coins,TT Payment,Booking id,Start time,End time,Booked by,Created at,Booking status,Refund Status,Cancelled at,Mobile No,Transaction Id,Sport Type
+1546,2021Jan 03,Maidaan,Porur,Ratheesh Raghavendra,1500,120.0,0.0,1500.0,0,0,120,TT106837,8:00 AM,9:00 AM,TurfTown,"Dec 31, 2020 10:09 AM",completed,-,"Mar 30, 2021 2:40 PM",9500144932,pay_GJbpeufNBnpRKJ,football
+1892,2021Jan 09,Maidaan,Porur,Prince Christopher,1500,120.0,300.0,1200.0,0,0,120,TT111569,4:00 PM,5:00 PM,TurfTown,"Jan 8, 2021 7:29 AM",completed,-,"Mar 30, 2021 2:40 PM",7904353281,pay_GMjMigspopRPDm,football
+2075,2021Jan 10,Maidaan,Porur,Rohan,1500,0.0,300.0,0.0,0,0,0,TT110498,6:00 PM,7:00 PM,TurfTown,"Jan 6, 2021 3:34 AM",cancelled,-,"Mar 30, 2021 2:40 PM",8838440248,free_slot,football
+3263,2021Jan 31,Maidaan,Porur,seenu,1500,120.0,300.0,1200.0,0,0,120,TT122805,10:00 AM,11:00 AM,TurfTown,"Jan 29, 2021 6:35 AM",completed,-,"Mar 30, 2021 2:40 PM",7010596307,pay_GV1etCgqyIJImK,football

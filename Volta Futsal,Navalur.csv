@@ -1,0 +1,11 @@
+,Date,Venue Name,Venue Area,Name,Cost,Advance,Discount,Billed Amount,App Coupon,TT Coins,TT Payment,Booking id,Start time,End time,Booked by,Created at,Booking status,Refund Status,Cancelled at,Mobile No,Transaction Id,Sport Type
+318,2020Dec 07,Volta Futsal,Navalur,Niteeshwar,1200,60.0,600.0,600.0,0,0,60,TT094653,5:00 PM,6:00 PM,TurfTown,"Dec 7, 2020 8:47 AM",completed,-,"Mar 30, 2021 2:40 PM",8754955717,pay_GA5cxJg6PE0Wcn,football
+2338,2021Jan 16,Volta Futsal,Navalur,Rohith senthil Kumar,1200,60.0,600.0,600.0,0,0,60,TT115849,5:00 PM,6:00 PM,TurfTown,"Jan 15, 2021 12:35 PM",completed,-,"Mar 30, 2021 2:40 PM",6380124387,pay_GPaJRH8tNnIp8i,football
+3417,2021Feb 04,Volta Futsal,Navalur,jinju,1600,140.0,200.0,1400.0,0,0,140,TT127605,7:00 PM,9:00 PM,TurfTown,"Feb 3, 2021 2:03 PM",completed,-,"Mar 30, 2021 2:40 PM",8939175590,pay_GX7xEGtBCBh0Qy,football
+4114,2021Feb 17,Volta Futsal,Navalur,csbarathi,1600,140.0,200.0,1400.0,0,0,140,TT134254,7:00 PM,9:00 PM,TurfTown,"Feb 17, 2021 9:21 AM",completed,-,"Mar 30, 2021 2:40 PM",9500043369,pay_Gcadklc56MRrOd,football
+4661,2021Feb 27,Volta Futsal,Navalur,jonesleo,1600,140.0,200.0,1400.0,0,0,140,TT138081,8:00 PM,10:00 PM,TurfTown,"Feb 23, 2021 6:20 PM",completed,-,"Mar 30, 2021 2:40 PM",9176029147,pay_Gf7183wkemL7sd,football
+5431,2021Mar 11,Volta Futsal,Navalur,gokrish11,2000,1300.0,600.0,1400.0,100,0,"1,400",TT151069,9:00 PM,11:00 PM,TurfTown,"Mar 11, 2021 11:23 AM",completed,-,"Mar 30, 2021 2:40 PM",9087535051,pay_GlKUYXyVhmVF0d,football
+5705,2021Mar 14,Volta Futsal,Navalur,mei,2000,130.0,600.0,1400.0,100,0,230,TT149768,6:00 PM,8:00 PM,TurfTown,"Mar 9, 2021 11:27 AM",completed,-,"Mar 30, 2021 2:40 PM",9080490927,pay_GkXSfbfwuyLYZs,football
+6417,2021Mar 23,Volta Futsal,Navalur,k.tanzeer10,2000,130.0,600.0,1400.0,100,0,230,TT158160,7:00 PM,9:00 PM,TurfTown,"Mar 23, 2021 6:56 AM",completed,-,"Mar 30, 2021 2:40 PM",9933245225,pay_Gq0LJeIajeiKGD,football
+845,2020Dec 20,Volta Futsal,Navalur,Navin Rajendhiran,3600,180.0,1800.0,1800.0,0,0,180,TT100544,7:00 AM,10:00 AM,TurfTown,"Dec 19, 2020 5:47 AM",completed,-,"Mar 30, 2021 2:40 PM",7397267367,pay_GEmvSlLEJobsWA,football
+538,2020Dec 13,Volta Futsal,Navalur,Navin Rajendhiran,4800,240.0,2400.0,2400.0,0,0,240,TT096595,6:00 AM,10:00 AM,TurfTown,"Dec 11, 2020 4:38 AM",completed,-,"Mar 30, 2021 2:40 PM",7397267367,pay_GBbTrleqjpLPJO,football

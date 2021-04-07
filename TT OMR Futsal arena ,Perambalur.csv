@@ -1,0 +1,12 @@
+,Date,Venue Name,Venue Area,Name,Cost,Advance,Discount,Billed Amount,App Coupon,TT Coins,TT Payment,Booking id,Start time,End time,Booked by,Created at,Booking status,Refund Status,Cancelled at,Mobile No,Transaction Id,Sport Type
+3487,2021Feb 05,TT OMR Futsal arena ,Perambalur,rajasekarss,10,0.0,0.0,0.0,0,10,10,TT127015,7:00 PM,8:00 PM,TurfTown,"Feb 2, 2021 11:33 AM",cancelled,-,"Mar 30, 2021 2:40 PM",8637474080,free_slot,football
+3096,2021Jan 29,TT OMR Futsal arena ,Perambalur,rajasekarss,20,0.0,0.0,20.0,0,20,20,TT122838,1:00 PM,2:00 PM,TurfTown,"Jan 29, 2021 7:22 AM",completed,-,"Mar 30, 2021 2:40 PM",8637474080,free_slot,football
+3488,2021Feb 05,TT OMR Futsal arena ,Perambalur,rajasekarss,20,1.0,0.0,1.0,0,0,1,TT127213,11:00 AM,12:00 PM,TurfTown,"Feb 2, 2021 4:53 PM",cancelled,-,"Mar 30, 2021 2:40 PM",8637474080,pay_GWmJYkg8c89qhS,football
+3489,2021Feb 05,TT OMR Futsal arena ,Perambalur,ashok,20,0.0,0.0,0.0,0,20,20,TT126876,9:00 AM,10:00 AM,TurfTown,"Feb 2, 2021 9:26 AM",cancelled,-,"Mar 30, 2021 2:40 PM",9791072819,free_slot,football
+3490,2021Feb 05,TT OMR Futsal arena ,Perambalur,rajasekarss,20,0.0,0.0,0.0,0,20,20,TT126870,9:00 AM,10:00 AM,TurfTown,"Feb 2, 2021 9:24 AM",cancelled,-,"Mar 30, 2021 2:40 PM",8637474080,free_slot,football
+3491,2021Feb 05,TT OMR Futsal arena ,Perambalur,rajasekarss,20,2.0,0.0,2.0,0,0,2,TT127021,1:00 AM,2:00 AM,TurfTown,"Feb 2, 2021 11:41 AM",cancelled,Refunded,"Mar 30, 2021 2:40 PM",8637474080,pay_GWgyoKgUEYRRVl,football
+3492,2021Feb 05,TT OMR Futsal arena ,Perambalur,rajasekarss,20,0.0,0.0,0.0,0,20,20,TT127020,1:00 AM,2:00 AM,TurfTown,"Feb 2, 2021 11:39 AM",cancelled,-,"Mar 30, 2021 2:40 PM",8637474080,free_slot,football
+6983,2021Mar 31,TT OMR Futsal arena ,Perambalur,ashok,20,0.0,0.0,0.0,0,20,20,TT162754,3:00 PM,4:00 PM,TurfTown,"Mar 29, 2021 10:33 AM",cancelled,-,"Mar 30, 2021 2:40 PM",9791072819,free_slot,football
+6989,2021Mar 31,TT OMR Futsal arena ,Perambalur,rajasekarss,20,0.0,0.0,20.0,0,20,20,TT162757,4:30 PM,5:30 PM,TurfTown,"Mar 29, 2021 10:37 AM",booked,-,"Mar 30, 2021 2:40 PM",8637474080,free_slot,football
+6432,2021Mar 23,TT OMR Futsal arena ,Perambalur,rajuseka,40,0.0,0.0,0.0,0,40,40,TT158613,4:30 PM,5:30 PM,TurfTown,"Mar 23, 2021 10:00 AM",cancelled,-,"Mar 30, 2021 2:40 PM",4444444441,free_slot,football
+6433,2021Mar 23,TT OMR Futsal arena ,Perambalur,rajas,40,0.0,0.0,0.0,0,40,40,TT158412,3:00 PM,4:00 PM,TurfTown,"Mar 23, 2021 8:52 AM",cancelled,-,"Mar 30, 2021 2:40 PM",3333333345,free_slot,football

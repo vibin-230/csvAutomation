@@ -1,0 +1,35 @@
+,Date,Venue Name,Venue Area,Name,Cost,Advance,Discount,Billed Amount,App Coupon,TT Coins,TT Payment,Booking id,Start time,End time,Booked by,Created at,Booking status,Refund Status,Cancelled at,Mobile No,Transaction Id,Sport Type
+3327,2021Feb 01,Plusportz,ICF,abishek_82,500,125.0,0.0,500.0,0,0,125,TT124786,6:00 AM,7:00 AM,TurfTown,"Jan 31, 2021 12:46 PM",completed,-,"Mar 30, 2021 2:40 PM",9940637606,pay_GVv2p5Yc1rrx91,cricket
+6650,2021Mar 27,Plusportz,ICF,shanku,1000,250.0,0.0,1000.0,0,0,250,TT160928,7:00 AM,9:00 AM,TurfTown,"Mar 26, 2021 5:07 PM",completed,-,"Mar 30, 2021 2:40 PM",7904387456,pay_GrMKXQyok0aB5V,cricket
+6845,2021Mar 28,Plusportz,ICF,nithish83,1000,250.0,0.0,1000.0,0,0,250,TT159641,10:00 AM,12:00 PM,TurfTown,"Mar 25, 2021 1:35 AM",booked,-,"Mar 30, 2021 2:40 PM",7397294038,pay_GqhxekVNUnYSk6,cricket
+87,2020Dec 03,Plusportz,ICF,Meesam Raza,1800,160.0,0.0,1800.0,200,0,360,TT091655,6:00 PM,7:00 PM,TurfTown,"Dec 3, 2020 10:35 AM",completed,-,"Mar 30, 2021 2:40 PM",8939258014,pay_G8XIkxeAclU3k1,football
+359,2020Dec 08,Plusportz,ICF,Sai Prem,1800,160.0,0.0,1800.0,200,0,360,TT095348,8:00 PM,9:00 PM,TurfTown,"Dec 8, 2020 10:09 AM",completed,-,"Mar 30, 2021 2:40 PM",9677221956,pay_GAVX9FXN2iRuv3,football
+360,2020Dec 08,Plusportz,ICF,Mohammed Aqeel,1800,180.0,0.0,1800.0,0,0,180,TT094913,4:00 PM,5:00 PM,TurfTown,"Dec 7, 2020 4:14 PM",completed,-,"Mar 30, 2021 2:40 PM",7358241971,pay_GADErkBqewbXla,football
+998,2020Dec 23,Plusportz,ICF,Remo Abraham,1800,160.0,0.0,1800.0,200,0,360,TT102593,7:30 PM,8:30 PM,TurfTown,"Dec 23, 2020 9:14 AM",completed,-,"Mar 30, 2021 2:40 PM",9790731524,pay_GGQbi5bpXyJfx4,football
+1033,2020Dec 24,Plusportz,ICF,Alden _rx,1800,160.0,0.0,1800.0,200,0,360,TT102914,4:00 PM,5:00 PM,TurfTown,"Dec 24, 2020 5:17 AM",completed,-,"Mar 30, 2021 2:40 PM",7305889619,pay_GGl5e8Nmb2lGWa,football
+2916,2021Jan 25,Plusportz,ICF,saif,1800,160.0,0.0,1800.0,200,0,360,TT120831,8:00 PM,9:00 PM,TurfTown,"Jan 25, 2021 10:07 AM",completed,-,"Mar 30, 2021 2:40 PM",7401298202,pay_GTV8fhPUlN8ldl,football
+2983,2021Jan 26,Plusportz,ICF,ajay3122000,1800,160.0,0.0,1800.0,200,0,360,TT121319,5:00 PM,6:00 PM,TurfTown,"Jan 26, 2021 8:17 AM",completed,-,"Mar 30, 2021 2:40 PM",7010043850,pay_GTrnGdCzf5Khum,football
+3032,2021Jan 27,Plusportz,ICF,prasanna,1800,160.0,0.0,1800.0,200,0,360,TT121669,8:00 PM,9:00 PM,TurfTown,"Jan 27, 2021 7:39 AM",completed,-,"Mar 30, 2021 2:40 PM",7305517977,pay_GUFgNYO4I5oQZU,football
+3073,2021Jan 28,Plusportz,ICF,ajayaksath,1800,180.0,100.0,1700.0,0,0,180,TT122320,8:00 PM,9:00 PM,TurfTown,"Jan 28, 2021 12:48 PM",completed,-,"Mar 30, 2021 2:40 PM",9566111759,pay_GUjTjfqP3hjwtd,football
+3342,2021Feb 01,Plusportz,ICF,sridharelamaran,1800,155.0,0.0,1800.0,200,50,405,TT125459,7:30 PM,8:30 PM,TurfTown,"Feb 1, 2021 9:35 AM",completed,-,"Mar 30, 2021 2:40 PM",9790406512,pay_GWGJW0PmkWunhC,football
+3400,2021Feb 03,Plusportz,ICF,jhonty,1800,150.0,0.0,1800.0,200,100,450,TT127228,7:30 PM,8:30 PM,TurfTown,"Feb 2, 2021 6:03 PM",completed,-,"Mar 30, 2021 2:40 PM",7358515288,pay_GWnVx3shXLoJW5,football
+4500,2021Feb 23,Plusportz,ICF,xi5l,1800,155.0,0.0,1800.0,200,50,405,TT137736,8:00 PM,9:00 PM,TurfTown,"Feb 23, 2021 9:27 AM",completed,-,"Mar 30, 2021 2:40 PM",9940624009,pay_GexwmMgLMGTAtu,football
+5348,2021Mar 08,Plusportz,ICF,saif,1800,150.0,0.0,1800.0,200,100,450,TT149160,8:00 PM,9:00 PM,TurfTown,"Mar 8, 2021 9:36 AM",booked,-,"Mar 30, 2021 2:40 PM",7401298202,pay_Gk72bWQ3o912xP,football
+6396,2021Mar 22,Plusportz,ICF,prasanna,1800,160.0,0.0,1800.0,200,0,360,TT157478,8:00 PM,9:00 PM,TurfTown,"Mar 22, 2021 8:44 AM",completed,-,"Mar 30, 2021 2:40 PM",7305517977,pay_GpdcvWer4dmTQp,football
+6537,2021Mar 25,Plusportz,ICF,saif,1800,160.0,160.0,1640.0,200,0,360,TT159900,8:00 PM,9:00 PM,TurfTown,"Mar 25, 2021 9:21 AM",completed,-,"Mar 30, 2021 2:40 PM",7401298202,pay_GqprP5hVtt6pUv,football
+6979,2021Mar 30,Plusportz,ICF,saif,1800,160.0,0.0,1800.0,200,0,360,TT163400,8:00 PM,9:00 PM,TurfTown,"Mar 30, 2021 7:21 AM",booked,-,"Mar 30, 2021 2:40 PM",7401298202,pay_GsmTw9FvvWVETK,football
+492,2020Dec 12,Plusportz,ICF,Arjun Velmurugan,2400,240.0,0.0,2400.0,0,0,240,TT097177,8:00 PM,9:00 PM,TurfTown,"Dec 12, 2020 6:44 AM",completed,-,"Mar 30, 2021 2:40 PM",8939621238,pay_GC2AuCkSl6Gd2i,football
+1608,2021Jan 03,Plusportz,ICF,Rathnaganth,2400,220.0,0.0,220.0,200,0,220,TT108113,8:00 AM,9:00 AM,TurfTown,"Jan 2, 2021 10:40 AM",cancelled,Refunded,"Mar 30, 2021 2:40 PM",9551430586,pay_GKPRYdwcsyRKue,football
+2045,2021Jan 10,Plusportz,ICF,Jayesh Jain,2400,240.0,0.0,2400.0,0,0,240,TT110610,8:00 AM,9:00 AM,TurfTown,"Jan 6, 2021 8:02 AM",completed,-,"Mar 30, 2021 2:40 PM",9940445566,pay_GLwrScusmaLLse,football
+3570,2021Feb 06,Plusportz,ICF,_vishnu_,2400,220.0,0.0,2400.0,200,0,420,TT127602,8:00 AM,9:00 AM,TurfTown,"Feb 3, 2021 1:56 PM",completed,-,"Mar 30, 2021 2:40 PM",9841245921,pay_GX7phoevpcs5U3,football
+3698,2021Feb 07,Plusportz,ICF,rv7,2400,220.0,0.0,2400.0,200,0,420,TT129194,7:00 PM,8:00 PM,TurfTown,"Feb 6, 2021 12:55 PM",completed,-,"Mar 30, 2021 2:40 PM",9791080148,pay_GYIOTia4agnR2Y,football
+3699,2021Feb 07,Plusportz,ICF,gauniboi,2400,220.0,0.0,2400.0,200,0,420,TT129190,6:00 PM,7:00 PM,TurfTown,"Feb 6, 2021 12:49 PM",completed,-,"Mar 30, 2021 2:40 PM",8939934547,pay_GYIIhJciv6YyaM,football
+4737,2021Feb 27,Plusportz,ICF,Anuj,2400,240.0,0.0,2400.0,0,0,240,TT139461,8:00 PM,9:00 PM,TurfTown,"Feb 26, 2021 7:13 AM",completed,-,"Mar 30, 2021 2:40 PM",7397411707,pay_Gg7GvSAPOjSOqy,football
+5619,2021Mar 13,Plusportz,ICF,ceptor,2400,220.0,0.0,2400.0,200,0,420,TT152166,6:00 PM,7:00 PM,TurfTown,"Mar 13, 2021 7:34 AM",completed,-,"Mar 30, 2021 2:40 PM",8825728359,pay_Gm3dZCCG0OXGeB,football
+6290,2021Mar 21,Plusportz,ICF,Danish Khan,2400,220.0,0.0,2400.0,200,0,420,TT155219,6:00 PM,7:00 PM,TurfTown,"Mar 18, 2021 4:13 PM",completed,-,"Mar 30, 2021 2:40 PM",9962132865,pay_GoBHn8mJ9niDoM,football
+6676,2021Mar 27,Plusportz,ICF,namann,2400,220.0,0.0,2400.0,200,0,420,TT161438,9:00 PM,10:00 PM,TurfTown,"Mar 27, 2021 12:20 PM",completed,-,"Mar 30, 2021 2:40 PM",9789991221,pay_GrfzqPGDifLkAu,football
+6699,2021Mar 27,Plusportz,ICF,_vishnu_,2400,220.0,0.0,220.0,200,0,220,TT160143,6:00 PM,7:00 PM,TurfTown,"Mar 25, 2021 2:01 PM",cancelled,Refunded,"Mar 30, 2021 2:40 PM",9841245921,pay_GqudBJVElJNhx4,football
+3435,2021Feb 04,Plusportz,ICF,govindhan,3600,340.0,0.0,3600.0,200,0,540,TT127920,8:00 PM,10:00 PM,TurfTown,"Feb 4, 2021 9:20 AM",completed,-,"Mar 30, 2021 2:40 PM",9659219000,pay_GXRgARfxdsKfnn,football
+4418,2021Feb 21,Plusportz,ICF,shiva88,3600,360.0,0.0,3600.0,0,0,360,TT134791,6:30 AM,8:00 AM,TurfTown,"Feb 18, 2021 4:57 AM",completed,-,"Mar 30, 2021 2:40 PM",9940381674,pay_GcufOruIRGohdu,football
+6169,2021Mar 20,Plusportz,ICF,aaqibquraishi,3600,360.0,0.0,360.0,0,0,360,TT156124,7:00 PM,8:30 PM,TurfTown,"Mar 19, 2021 4:29 PM",cancelled,Refunded,"Mar 30, 2021 2:40 PM",9840096312,pay_GoZwrfVdfiF3UA,football
+4057,2021Feb 14,Plusportz,ICF,anup,4800,460.0,0.0,460.0,200,0,460,TT131348,6:30 AM,8:30 AM,TurfTown,"Feb 11, 2021 7:48 AM",cancelled,Refunded,"Mar 30, 2021 2:40 PM",9884284905,pay_GaBqvPiMgmCNm1,football

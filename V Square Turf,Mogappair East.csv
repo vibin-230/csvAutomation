@@ -1,0 +1,9 @@
+,Date,Venue Name,Venue Area,Name,Cost,Advance,Discount,Billed Amount,App Coupon,TT Coins,TT Payment,Booking id,Start time,End time,Booked by,Created at,Booking status,Refund Status,Cancelled at,Mobile No,Transaction Id,Sport Type
+975,2020Dec 22,V Square Turf,Mogappair East,Karthick,1500,150.0,0.0,150.0,0,0,150,TT102117,3:30 PM,4:30 PM,TurfTown,"Dec 22, 2020 9:50 AM",cancelled,Refunded,"Mar 30, 2021 2:40 PM",9345462960,pay_GG2g9wqlB7ktr7,football
+1786,2021Jan 07,V Square Turf,Mogappair East,Prince Christopher,1500,150.0,0.0,150.0,0,0,150,TT110927,5:00 PM,6:00 PM,TurfTown,"Jan 6, 2021 5:21 PM",cancelled,Refunded,"Mar 30, 2021 2:40 PM",7904353281,pay_GM6MsY2wRe0iYa,football
+2185,2021Jan 13,V Square Turf,Mogappair East,Ivon Paul,1500,150.0,0.0,1500.0,0,0,150,TT114465,7:00 PM,8:00 PM,TurfTown,"Jan 12, 2021 1:38 PM",completed,-,"Mar 30, 2021 2:40 PM",9677192344,pay_GOPmKeUo8HWHyK,football
+5899,2021Mar 16,V Square Turf,Mogappair East,nithin,1500,150.0,0.0,1500.0,0,0,150,TT153854,8:00 PM,9:00 PM,TurfTown,"Mar 16, 2021 10:42 AM",booked,-,"Mar 30, 2021 2:40 PM",9790637032,pay_GnIU2xwplHAv9R,football
+811,2020Dec 19,V Square Turf,Mogappair East,Aashay,2000,200.0,0.0,2000.0,0,0,200,TT100426,4:00 PM,5:00 PM,TurfTown,"Dec 18, 2020 3:24 PM",completed,-,"Mar 30, 2021 2:40 PM",7338838020,pay_GEYERKwsQ6SCRw,football
+5310,2021Mar 07,V Square Turf,Mogappair East,manimk,2000,200.0,0.0,200.0,0,0,200,TT148020,8:00 AM,9:00 AM,TurfTown,"Mar 6, 2021 1:28 PM",cancelled,Refunded,"Mar 30, 2021 2:40 PM",7904568492,pay_GjNv44SQPh8mey,football
+13,2020Nov 30,V Square Turf,Mogappair East,Navin Pandiyan,2250,225.0,0.0,2250.0,0,0,225,TT089768,9:00 PM,10:30 PM,TurfTown,"Nov 30, 2020 1:06 PM",completed,-,"Mar 30, 2021 2:40 PM",9840915724,pay_G7OIzoPQIZBMSa,football
+2992,2021Jan 26,V Square Turf,Mogappair East,kaka2411,3000,300.0,0.0,3000.0,0,0,300,TT121089,6:30 PM,8:30 PM,TurfTown,"Jan 25, 2021 5:34 PM",completed,-,"Mar 30, 2021 2:40 PM",9551997737,pay_GTclKZJhi8WRxg,football

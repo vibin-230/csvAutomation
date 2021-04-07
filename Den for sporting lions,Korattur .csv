@@ -1,0 +1,7 @@
+,Date,Venue Name,Venue Area,Name,Cost,Advance,Discount,Billed Amount,App Coupon,TT Coins,TT Payment,Booking id,Start time,End time,Booked by,Created at,Booking status,Refund Status,Cancelled at,Mobile No,Transaction Id,Sport Type
+1390,2021Jan 01,Den for sporting lions,Korattur ,Balaji,600,600.0,0.0,600.0,0,0,600,TT107561,8:00 PM,9:00 PM,TurfTown,"Jan 1, 2021 1:34 PM",completed,-,"Mar 30, 2021 2:40 PM",9710421000,pay_GK3pvLIVaTjTFU,cricket
+5698,2021Mar 14,Den for sporting lions,Korattur ,kunal_k,600,60.0,0.0,600.0,0,0,60,TT152437,4:00 PM,5:00 PM,TurfTown,"Mar 13, 2021 2:27 PM",completed,-,"Mar 30, 2021 2:40 PM",8056107687,pay_GmAhEtlD8WI7kH,cricket
+1507,2021Jan 02,Den for sporting lions,Korattur ,Dilli Babu,1200,110.0,100.0,110.0,0,0,110,TT107723,3:00 PM,5:00 PM,TurfTown,"Jan 1, 2021 5:03 PM",cancelled,-,"Mar 30, 2021 2:40 PM",9171765975,pay_GK7OfLOCzSUAzQ,cricket
+1729,2021Jan 06,Den for sporting lions,Korattur ,Ram kumar,1200,0.0,100.0,0.0,0,0,0,TT109893,6:00 PM,8:00 PM,TurfTown,"Jan 4, 2021 4:51 PM",cancelled,-,"Mar 30, 2021 2:40 PM",9944336491,free_slot,cricket
+2875,2021Jan 24,Den for sporting lions,Korattur ,msushanth,1200,1100.0,100.0,1100.0,0,0,"1,100",TT119910,7:00 AM,9:00 AM,TurfTown,"Jan 23, 2021 11:32 AM",cancelled,Refunded,"Mar 30, 2021 2:40 PM",7397245084,pay_GSjVWYh2R7d0K2,cricket
+3974,2021Feb 14,Den for sporting lions,Korattur ,praveen_7,1500,150.0,0.0,1500.0,0,0,150,TT132634,4:30 PM,7:00 PM,TurfTown,"Feb 14, 2021 9:40 AM",completed,-,"Mar 30, 2021 2:40 PM",9840661687,pay_GbPMRyxGQLBhnX,cricket

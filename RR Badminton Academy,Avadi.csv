@@ -1,0 +1,5 @@
+,Date,Venue Name,Venue Area,Name,Cost,Advance,Discount,Billed Amount,App Coupon,TT Coins,TT Payment,Booking id,Start time,End time,Booked by,Created at,Booking status,Refund Status,Cancelled at,Mobile No,Transaction Id,Sport Type
+1130,2020Dec 26,RR Badminton Academy,Avadi,Venke,400,200.0,0.0,400.0,0,0,200,TT103775,8:30 AM,9:30 AM,TurfTown,"Dec 26, 2020 2:26 AM",completed,-,"Mar 30, 2021 2:40 PM",9003034142,pay_GHVFkFhPNPwTgO,badminton
+1261,2020Dec 28,RR Badminton Academy,Avadi,Venke,400,200.0,0.0,400.0,0,0,200,TT104875,8:30 PM,9:30 PM,TurfTown,"Dec 28, 2020 12:43 PM",completed,-,"Mar 30, 2021 2:40 PM",9003034142,pay_GISpOlzKjPRDr6,badminton
+77,2020Dec 03,RR Badminton Academy,Avadi,Venke,600,300.0,0.0,600.0,0,0,300,TT091917,8:00 PM,9:30 PM,TurfTown,"Dec 3, 2020 12:14 PM",completed,-,"Mar 30, 2021 2:40 PM",9003034142,pay_G8YzIOICEambhG,badminton
+851,2020Dec 20,RR Badminton Academy,Avadi,Venke,600,300.0,0.0,600.0,0,0,300,TT101123,7:30 PM,9:00 PM,TurfTown,"Dec 20, 2020 1:18 PM",completed,-,"Mar 30, 2021 2:40 PM",9003034142,pay_GFJ9ZQKtrBmrSi,badminton
