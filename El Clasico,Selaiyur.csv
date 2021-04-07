@@ -1,8 +1,0 @@
-,Date,Venue Name,Venue Area,Name,Cost,Advance,Discount,Billed Amount,App Coupon,TT Coins,TT Payment,Booking id,Start time,End time,Booked by,Created at,Booking status,Refund Status,Cancelled at,Mobile No,Transaction Id,Sport Type
-348,2020Dec 08,El Clasico,Selaiyur,Sandeep,1000,100.0,0.0,1000.0,0,0,100,TT095127,7:00 PM,8:00 PM,TurfTown,"Dec 8, 2020 6:15 AM",completed,-,"Mar 30, 2021 2:40 PM",9025707314,pay_GARXxhlw41iRWw,football
-694,2020Dec 16,El Clasico,Selaiyur,gowtham surya,1000,80.0,200.0,80.0,0,0,80,TT099305,7:00 PM,8:00 PM,TurfTown,"Dec 16, 2020 9:57 AM",cancelled,-,"Mar 30, 2021 2:40 PM",8825790967,pay_GDfayFyAxQLJtb,football
-1042,2020Dec 24,El Clasico,Selaiyur,AKASH K,1000,0.0,200.0,0.0,0,0,0,TT103118,10:00 PM,11:00 PM,TurfTown,"Dec 24, 2020 11:40 AM",cancelled,-,"Mar 30, 2021 2:40 PM",9444893753,free_slot,football
-3086,2021Jan 28,El Clasico,Selaiyur,aj,1000,80.0,200.0,80.0,0,0,80,TT122089,9:00 PM,10:00 PM,TurfTown,"Jan 28, 2021 7:21 AM",cancelled,Refunded,"Mar 30, 2021 2:40 PM",8925680400,pay_GUdynY4VUMgPnI,football
-3061,2021Jan 28,El Clasico,Selaiyur,praveen24,2000,150.0,500.0,1500.0,0,0,150,TT121437,7:00 PM,9:00 PM,TurfTown,"Jan 26, 2021 12:24 PM",completed,-,"Mar 30, 2021 2:40 PM",9566256244,pay_GTvzCe6qPTS7xZ,football
-4891,2021Feb 28,El Clasico,Selaiyur,Sasi,2000,190.0,0.0,190.0,100,0,190,TT140904,9:00 PM,11:00 PM,TurfTown,"Feb 27, 2021 4:44 PM",cancelled,Refunded,"Mar 30, 2021 2:40 PM",9094130921,pay_GgfWMQkb0UpLs8,football
-4892,2021Feb 28,El Clasico,Selaiyur,Sasi,2000,200.0,0.0,200.0,0,0,200,TT140712,9:00 PM,11:00 PM,TurfTown,"Feb 27, 2021 11:18 AM",cancelled,Refunded,"Mar 30, 2021 2:40 PM",9094130921,pay_GgZyD58I35jr4M,football

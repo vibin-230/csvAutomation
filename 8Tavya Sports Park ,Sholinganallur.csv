@@ -1,6 +1,0 @@
-,Date,Venue Name,Venue Area,Name,Cost,Advance,Discount,Billed Amount,App Coupon,TT Coins,TT Payment,Booking id,Start time,End time,Booked by,Created at,Booking status,Refund Status,Cancelled at,Mobile No,Transaction Id,Sport Type
-1643,2021Jan 04,8Tavya Sports Park ,Sholinganallur,Joel Kido,5000,250.0,500.0,250.0,0,0,250,TT108922,7:00 AM,9:00 AM,TurfTown,"Jan 3, 2021 10:01 AM",cancelled,Refunded,"Mar 30, 2021 2:40 PM",8056175404,pay_GKnHB1XuYtvg6Z,football
-1686,2021Jan 06,8Tavya Sports Park ,Sholinganallur,shriram s,5000,250.0,500.0,4500.0,0,0,250,TT110338,8:00 PM,10:00 PM,TurfTown,"Jan 5, 2021 2:16 PM",completed,-,"Mar 30, 2021 2:40 PM",8939175590,pay_GLegnMqu5w0z84,football
-50,2020Dec 02,8Tavya Sports Park ,Sholinganallur,Joel Kido,5250,321.0,750.0,4500.0,0,0,321,TT090714,7:00 PM,8:30 PM,TurfTown,"Dec 2, 2020 7:02 AM",completed,-,"Mar 30, 2021 2:40 PM",8056175404,pay_G857gi8fFN6rgU,football
-1853,2021Jan 09,8Tavya Sports Park ,Sholinganallur,Pranesh ,6000,278.0,1000.0,5000.0,0,0,278,TT111963,8:00 AM,10:00 AM,TurfTown,"Jan 8, 2021 12:54 PM",completed,-,"Mar 30, 2021 2:40 PM",8939254647,pay_GMouOJWHf2cXsT,football
-1941,2021Jan 09,8Tavya Sports Park ,Sholinganallur,Pranesh ,6000,0.0,1000.0,0.0,0,0,0,TT110487,7:30 AM,9:30 AM,TurfTown,"Jan 5, 2021 10:44 PM",cancelled,-,"Mar 30, 2021 2:40 PM",8939254647,free_slot,football

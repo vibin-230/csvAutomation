@@ -1,9 +1,0 @@
-,Date,Venue Name,Venue Area,Name,Cost,Advance,Discount,Billed Amount,App Coupon,TT Coins,TT Payment,Booking id,Start time,End time,Booked by,Created at,Booking status,Refund Status,Cancelled at,Mobile No,Transaction Id,Sport Type
-3811,2021Feb 10,Planet B,Kolathur,kaihavehearts,400,200.0,0.0,200.0,0,0,200,TT130076,11:00 PM,12:00 AM,TurfTown,"Feb 8, 2021 11:33 AM",cancelled,Refunded,"Mar 30, 2021 2:40 PM",9444106583,pay_GZ44fr5Dmg9WcM,badminton
-3889,2021Feb 13,Planet B,Kolathur,balsuv333,400,200.0,0.0,400.0,0,0,200,TT132424,9:30 PM,10:30 PM,TurfTown,"Feb 13, 2021 3:41 PM",completed,-,"Mar 30, 2021 2:40 PM",9500048377,pay_Gb6xq2ctlm4yOR,badminton
-4232,2021Feb 20,Planet B,Kolathur,fahimo,400,200.0,0.0,400.0,0,0,200,TT136688,10:00 PM,11:00 PM,TurfTown,"Feb 20, 2021 4:12 PM",completed,-,"Mar 30, 2021 2:40 PM",9840471138,pay_GdtF1gnAWEKwNV,badminton
-6840,2021Mar 28,Planet B,Kolathur,indhu,400,400.0,0.0,400.0,0,0,400,TT161579,3:00 PM,4:00 PM,TurfTown,"Mar 27, 2021 5:17 PM",booked,-,"Mar 30, 2021 2:40 PM",7708396773,pay_Grl3sBMkgEHx29,badminton
-3954,2021Feb 13,Planet B,Kolathur,aj_toretto,800,400.0,0.0,400.0,0,0,400,TT132194,7:00 PM,9:00 PM,TurfTown,"Feb 13, 2021 7:06 AM",cancelled,Refunded,"Mar 30, 2021 2:40 PM",9840075296,pay_GayDWmbZOMshCV,badminton
-6187,2021Mar 20,Planet B,Kolathur,kr,800,0.0,0.0,800.0,0,800,800,TT156123,12:00 PM,2:00 PM,TurfTown,"Mar 19, 2021 4:28 PM",booked,-,"Mar 30, 2021 2:40 PM",9345683362,free_slot,badminton
-6444,2021Mar 23,Planet B,Kolathur,vishal12,800,0.0,0.0,800.0,0,800,800,TT157694,12:00 PM,2:00 PM,TurfTown,"Mar 22, 2021 11:47 AM",booked,-,"Mar 30, 2021 2:40 PM",9344527638,free_slot,badminton
-6556,2021Mar 25,Planet B,Kolathur,kr,800,0.0,0.0,800.0,0,800,800,TT159546,11:00 AM,1:00 PM,TurfTown,"Mar 24, 2021 4:09 PM",booked,-,"Mar 30, 2021 2:40 PM",9345683362,free_slot,badminton
